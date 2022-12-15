@@ -8,7 +8,7 @@ The entire application was developed in Unity, version 2019.4.6f1, and the progr
 
 The PET HOUSE folder present in this repository is about the entire project developed in Unity. It can be downloaded to view the development and configurations used.
 
-The Executable folder has the files needed to run the application. The same can tested on computers with Windows operating system. To do so, just run the PET HOUSE.exe file.
+The Executable folder has the files needed to run the application. The same can tested on computers with Windows operating system. To do so, just run the PET HOUSE.exe file, but don't forget to download the whole folder.
 
 For a brief demonstration, some screen images will be presented to exemplify the use process.
 
