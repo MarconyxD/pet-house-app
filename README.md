@@ -15,7 +15,7 @@ For a brief demonstration, some screen images will be presented to exemplify the
 First, the Login window is displayed. In it, the user can enter his login and password to access the store. If you do not have a registration, the same can be done by clicking on the "CADASTRO" button.
 
 <p align="center">
-<img width="300" src="/Figures/02.png" alt="Figure 02">
+<img width="300" src="/Figures/01.png" alt="Figure 01">
 </p>
 
 After registering and accessing the initial catalog window, the following list is displayed, offering items on sale. You can see in the upper right corner an icon to access the user page. In the center is a search box. On the left, an icon to access a Menu. The window is scrollable, so you can scroll down to view the items below.
